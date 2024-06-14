@@ -1,0 +1,20 @@
+body {
+	/** 기본적으로 HTML margin값이 있는데 제거*/
+	margin: 0;
+}
+#three-canvas {
+	width: 100vw;
+	height: 100vh;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+#gui {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 100px;
+	padding: 0;
+	margin: 0;
+}
